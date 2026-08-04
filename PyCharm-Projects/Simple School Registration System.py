@@ -46,10 +46,23 @@ class Teacher(Person):
         print(f"Years Experience :{self.years_experience}")
 
 class HeadTeacher(Teacher):
-    def __init__(self,name,age,gender,phone_num,address,off_num,school_branch,allowance):
+    def __init__(self, name, age, gender, phone_num, address,
+                 staff_id, sub_taught, salary, years_experience,
+                 off_num, school_branch, allowance):
+
+        super().__init__(name, age, gender, phone_num, address,
+                         staff_id, sub_taught, salary, years_experience)
+
         self.off_num = off_num
         self.school_branch = school_branch
         self.allowance = allowance
+
+    def printPerson(self):
+        super().printPerson()
+        print(f"Office number :{self.off_num}")
+        print(f"Branch :{self.school_branch}")
+        print(f"Allowance :{self.allowance}")
+
 
     def printPerson(self):
         super().printPerson()
