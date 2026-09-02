@@ -8,9 +8,9 @@ Welcome to my central software development repository. This workspace tracks my 
 
 This workspace is organized into dedicated folders based on languages and environments to keep my portfolio neat and structured:
 
-*   **`CLion-Projects/`**
-    *   This directory contains all projects, source files, and console applications built using **C++**.
-*   **`PyCharm-Projects/`**
+*   **`Java-Projects/`**
+    *   This directory contains all projects, source files, and console applications built using **Java**.
+*   **`Python-Projects/`**
     *   This directory contains all scripts, applications, and programming exercises built using **Python**.
 
 ---
@@ -18,5 +18,5 @@ This workspace is organized into dedicated folders based on languages and enviro
 ## 🛠️ Environment & Tools
 
 *   **Languages**: Python, C++
-*   **Development Environments**: JetBrains CLion & PyCharm
+*   **Development Environments**: JetBrains Intellij IDEA & PyCharm
 *   **Version Control**: Git & GitHub
