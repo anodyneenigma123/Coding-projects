@@ -17,6 +17,6 @@ This workspace is organized into dedicated folders based on languages and enviro
 
 ## 🛠️ Environment & Tools
 
-*   **Languages**: Python, C++
+*   **Languages**: Python, Java
 *   **Development Environments**: JetBrains Intellij IDEA & PyCharm
 *   **Version Control**: Git & GitHub
