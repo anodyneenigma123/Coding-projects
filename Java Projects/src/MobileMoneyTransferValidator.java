@@ -64,8 +64,7 @@ public class MobileMoneyTransferValidator {
         }
         catch (InputMismatchException e) {
 
-            System.out.println("Invalid input entered.");
-            System.out.println("Enter a valid input ");
+            System.out.println("Invalid amount entered.");
 
         }
         finally {
