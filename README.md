@@ -10,6 +10,7 @@ This workspace is organized into dedicated folders based on languages and enviro
 
 *   **`Java-Projects/`**
     *   This directory contains all projects, source files, and console applications built using **Java**.
+    *   The projects are found in the src folder.
 *   **`Python-Projects/`**
     *   This directory contains all scripts, applications, and programming exercises built using **Python**.
 
